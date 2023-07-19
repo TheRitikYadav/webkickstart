@@ -1,0 +1,47 @@
+/* CSS Reset */
+
+/* Reset margin, padding, and border to a consistent baseline */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box; /* Recommended box model */
+  }
+  
+  /* Optionally, apply a global font and font size */
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Reset list styles */
+  ul, ol {
+    list-style: none;
+  }
+  
+  /* Optionally, reset anchor styles */
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Optionally, remove any default underlines on links */
+  a:hover {
+    text-decoration: none;
+  }
+  
+  /* Optionally, reset heading styles */
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+  }
+  
+  /* Optionally, set a default background color */
+  body {
+    background-color: #ffffff;
+  }
+
+    /* End CSS Reset */
+
+    /* Begin Page Styles */
+    
+  
