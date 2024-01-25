@@ -1,6 +1,5 @@
 # webkickstart
-
-
+This GitHub repository contains basic web development files and folder which will help you to kick start development not from scratch rather prepared line of codes , files and folder.
 
 ## Code Structure
 
