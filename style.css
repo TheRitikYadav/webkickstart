@@ -6,7 +6,6 @@
     padding: 0;
     border: 0;
     box-sizing: border-box; /* Recommended box model */
-    font-family: Arial, Helvetica, sans-serif;
   }
   
   /* Optionally, apply a global font and font size */
@@ -38,71 +37,11 @@
   
   /* Optionally, set a default background color */
   body {
-    background-color: #dff;
+    background-color: #ffffff;
   }
-
- 
-
 
     /* End CSS Reset */
 
     /* Begin Page Styles */
     
-   .bloodbox{
-    border: 2px solid #880808f3;
-    margin: 2rem auto;
-    padding: 2rem;
-    border-radius: 0.3cm;
-    background-color: #880808;
-    width: 30%;
-
-  }
-
-  .blood-title{
-    color: #fff;
-    font-weight: 800;
-    font-size: 150%;
-    text-align: center;
-    margin-bottom: 1rem;
-    
-
-
-  }
-
-  .bloodbox input{
-    width: 100%;
-    padding: 0.5rem;
-    margin-bottom: 0.5rem;
-    border-radius: 0.1cm;
-    border: 1px solid #880808f3;
-    font-size: 100%;
-    font-weight: 500;
-    color: #880808f3;
-    background-color: #fff;
-    outline: none;
-  }
-
-  .bloodbox input[type="submit"]{
-    background-color: #c20f0f;
-    color: #fff;
-    font-weight: 600;
-    font-size: 100%;
-    cursor: pointer;
-    border: 1px solid #880808f3;
-    transition: 0.3s ease-in-out;
-  }
-
-  .bloodbox input[type="submit"]:hover{
-    background-color: #fff;
-    color: #880808;
-    font-weight: 600;
-    font-size: 100%;
-    cursor: pointer;
-    border: 1px solid #880808f3;
-    transition: 0.3s ease-in-out;
-  }
-
-  .donate-invite-form{
-
-    padding: 1rem;
-  }
+  
